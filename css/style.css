@@ -1,0 +1,68 @@
+/* all common css start  */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+a,
+a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+    padding: 0;
+    line-height: 0.9;
+}
+
+/* all common css end  */
+
+/* service part start  */
+#service {
+    padding-bottom: 100px;
+    cursor: pointer;
+}
+
+.service_item i {
+    font-size: 35px;
+    padding-top: 80px;
+}
+
+.service_item h6 {
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    -webkit-transform: ;
+    -moz-transform: ;
+    -ms-transform: ;
+    -o-transform: ;
+    -webkit-transition: ;
+    -moz-transition: ;
+    -ms-transition: ;
+    -o-transition: ;
+}
+
+.service_item p {
+    font-size: 14px;
+    line-height: 18px;
+    position: relative;
+    padding-bottom: 50px;
+}
+
+
